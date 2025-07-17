@@ -1,0 +1,5 @@
+mon-site/
+├── index.html
+├── apropos.html
+├── contact.html
+└── style.css  ← on va le créer maintenant
