@@ -6,6 +6,9 @@ index.html
   </head>
   <body>
     <h1>Bienvenue sur mon site web !</h1>
-    <p>Créé avec GitHub Pages.</p>
+    <p>Créé avec GitHub Pages.</p><p>
+  <a href="cv.html">Voir mon CV</a> |
+  <a href="contact.html">Me contacter</a>
+</p>
   </body>
 </html>
