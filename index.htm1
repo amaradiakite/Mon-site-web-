@@ -1,0 +1,11 @@
+index.html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mon premier site</title>
+  </head>
+  <body>
+    <h1>Bienvenue sur mon site web !</h1>
+    <p>Créé avec GitHub Pages.</p>
+  </body>
+</html>
